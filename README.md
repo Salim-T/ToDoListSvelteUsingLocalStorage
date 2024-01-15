@@ -5,7 +5,7 @@ This project glues [Svelte](https://svelte.dev/) and
 
 ## 🎉 Getting started 
 
-![figma_maquette.gif](docs\media\GIF_Maquette.gif)
+![figma_maquette.gif](./docs/media/GIF_Maquette.gif)
 
 ### The prerequisites
 
