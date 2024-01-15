@@ -56,5 +56,4 @@ ___
 * [x]  Rename a list
 * [x]  Style sheets
   * [x]  Fix some ui bugs
-* [ ]  Creation of sub-tasks
 
